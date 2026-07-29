@@ -1,8 +1,17 @@
-function mostrarCuriosidade() {
+function responder(alternativa) {
 
-    const resultado = document.getElementById("resultado");
+    const resposta = document.getElementById("resposta");
 
-    resultado.textContent =
-        "🔎 [EDITAR AQUI] Coloque uma curiosidade sobre o tema da equipe.";
+    if (alternativa === "C") {
+
+        resposta.textContent =
+            "✅ Correto! A resposta é C: Independência dos raios de luz.";
+
+    } else {
+
+        resposta.textContent =
+            "❌ Não é essa. Tente novamente! Dica: um raio de luz não interfere na trajetória do outro.";
+
+    }
 
 }
