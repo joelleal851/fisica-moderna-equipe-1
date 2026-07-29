@@ -1,2 +1,2 @@
-# fisica-moderna-equipe-1
-Projeto de Física Moderna - Equipe 1
+# fisica-moderna-equipe-4
+Projeto de Física Moderna - Equipe 4
