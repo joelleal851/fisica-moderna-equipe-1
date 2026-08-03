@@ -19,7 +19,7 @@ body {
 /* CABEÇALHO */
 
 header {
-    background: linear-gradient(135deg, #111827, #312e81, #2563eb);
+    background: linear-gradient(135deg, #111827, #bc11c5, #d715c1);
     color: white;
 }
 
@@ -57,7 +57,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #4338ca;
+    background-color: #d81ebd;
 }
 
 
@@ -92,7 +92,7 @@ section p {
 
 .introducao {
     text-align: center;
-    border-top: 5px solid #4f46e5;
+    border-top: 5px solid #af13b7;
 }
 
 .introducao h2 {
@@ -113,7 +113,7 @@ section p {
     background-color: #eef2ff;
     padding: 20px;
     border-radius: 10px;
-    border-top: 4px solid #4f46e5;
+    border-top: 4px solid #b618b4;
 }
 
 .card h3 {
@@ -126,7 +126,7 @@ section p {
 
 .destaque {
     background-color: #eef2ff;
-    border-left: 5px solid #4f46e5;
+    border-left: 5px solid #e21d8c;
     padding: 20px;
     margin-top: 20px;
 }
@@ -136,7 +136,7 @@ section p {
 
 .formula-caixa {
     background-color: #f5f3ff;
-    border-left: 5px solid #7c3aed;
+    border-left: 5px solid #990bb2;
     padding: 20px;
     text-align: center;
     margin: 20px 0;
@@ -152,7 +152,7 @@ section p {
 
 .lei {
     background-color: #f8fafc;
-    border-left: 5px solid #2563eb;
+    border-left: 5px solid #eb25d4;
     padding: 20px;
     margin-bottom: 20px;
 }
@@ -198,14 +198,14 @@ li {
     padding: 13px;
     border: none;
     border-radius: 7px;
-    background-color: #4338ca;
+    background-color: #ce0c9d;
     color: white;
     cursor: pointer;
     font-size: 16px;
 }
 
 .quiz button:hover {
-    background-color: #312e81;
+    background-color: #b4187b;
 }
 
 #resposta {
